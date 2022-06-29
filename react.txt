@@ -1,0 +1,5 @@
+React Native Create Proyect Comand
+
+npx react-native init AwesomeTSProject --template react-native-template-typescript //crear proyecto
+
+npx react-native run-android  //correr en emulador

@@ -1,0 +1,91 @@
+--------Curso de C#------
+
+
+lo blanco que vemos es el diseño
+
+a la derecha esta la estructura del proyecto  tenemos el nombre del pryecto y todo lo que tiene dentro 
+
+hay algo que se llama form1.cs este viene siendo el formulario que tenemos a la izquierda 
+
+esta compuesto por dos partes la parte de diseño y la parte de logica 
+
+el form designer es el codigo para todo el form y el cs es la parte visual
+
+y en el centro de herramientas podemos arastrar lo que queremos poner de diseño
+
+en la parte de la derecha inferior tenemos las propiedades vamos a buscar una que diga texto porque vamos a empezar con un hola mundo y podemos
+cambiar diferentes propiedades del objeto como color posicion etc
+
+y podemos arrastrar varios tipos de componentes
+
+dandole click a un componente podemos abrir la logica de pogramacion en esta parte nos va a crear el codigo y nos posiciona en el lugar donde
+ejecutamos la accion cunaod hacmeos click en el boton por ejemplo
+
+nos tenemos que concentrar por ahora algo que este en las llaves de buttonclick 1
+
+
+
+y escribimos label1.text = "AJALA QUE PRO";
+
+esto hace que cuando puchemos el boton mandamos a llamar a nuestro label y el punto text es para asignarle un texto y lo cambiamos este es nuestro primer codigo
+
+
+
+
+Informacion
+
+conjunto de datos que al leerlos nos producen un significado ej 
+
+1er Dato: 875648 
+
+2do Dato: 01/05 al parecer parece una fecha pero no sabes que significa
+
+pero de todas maneras este conjunto de datos no nos dice nada 
+
+al contrario la informacion seria 
+
+turno renovacion de pasaporte para el dia 01/05 a las 10pm. El ID del turno es 875648 
+
+con este conjunto de datos bien organizados aqui si tenemos informacion pero esta informacion puede que no sea util 
+
+para que una info sea util tiene que ser en el momento indicado y tambien en la forma adecuada 
+
+
+Variable- Contenedor que nos permite guardar datos 
+ej
+
+A = 2
+
+B = A+1
+
+¿Que valor tiene b?
+
+B = 2+1
+
+asi funciona mas o menos las variables en programacion
+
+y se lee la programacion como una hoja de papel de izquierda a derecha y de arriba hacia abajo
+
+
+Constante
+
+la diferencia es que las constantes no pueden cambiar de valor se le asigna una ves y ya no cambia nunca mas
+
+ej 
+
+VELOCIDAD_LUZ = 300000 ej este porque la velocidad luz e igual en todos lados 
+
+
+
+
+
+
+
+como C# es un lenguaje de tipado fuerte asi que necesitamos indicar el tipo de la variable cada ves que la creamos
+
+
+
+
+
+
+
